@@ -1,0 +1,18 @@
+/**
+ * @name: main.css
+ * @author: Noemi Losada <info@noemilosada.com>
+ * @date: 20/01/2015
+ * @version: 0.0.1
+ */
+ 
+ .hide-show {
+  cursor: pointer;
+  
+  /** Disable selection */
+  -webkit-touch-callout: none;
+  -webkit-user-select: none;
+  -khtml-user-select: none;
+  -moz-user-select: none;
+  -ms-user-select: none;
+  user-select: none;
+}
